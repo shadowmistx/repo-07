@@ -1,1 +1,5 @@
-Adding some text here
+Adding text here + Deletion
+
+More info!
+
+Edits done in the branch
